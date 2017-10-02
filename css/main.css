@@ -43,7 +43,7 @@ h1 {
 
 .banner {
   border-bottom: 3px solid #145b1d;
-  background-image: url("../images/banner.jpg");
+  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)),url("../images/banner.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
