@@ -4,6 +4,10 @@ html {
 
 .masthead {
   background-color: #588477;
+  background-image: url("../images/leaf-bg.svg");
+  background-repeat: repeat;
+  background-position: top left;
+  background-size: 64px;
   border-bottom: 3px solid #2d5a4d;
   border-top: 3px solid #2d5a4d;
 }
@@ -34,10 +38,22 @@ h1 {
 }
 
 .banner {
+  border-bottom: 3px solid #588477;
+  background-image: url("../images/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
 
 }
 
 .banner-content {
+  color: #fff;
+  padding-top: 15rem;
+  background-image: url("../images/two-leaves.svg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 100px auto;
 
 }
 
