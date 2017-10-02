@@ -4,6 +4,8 @@ html {
 
 .masthead {
   background-color: #588477;
+  border-bottom: 3px solid #2d5a4d;
+  border-top: 3px solid #2d5a4d;
 }
 
 h1 {
@@ -22,7 +24,7 @@ h1 {
   text-decoration: none;
   color: #fff;
   background-color: #467366;
-  border: #2d5a4d 3px solid;
+  border: 3px solid #2d5a4d;
   border-radius: 8px;
 }
 
