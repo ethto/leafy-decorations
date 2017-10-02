@@ -44,6 +44,7 @@ h1 {
 .banner {
   border-bottom: 3px solid #145b1d;
   background-image: url("../images/banner.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -51,10 +52,10 @@ h1 {
 
 .banner-content {
   color: #fff;
-  padding-top: 17rem;
+  padding-top: 18.7rem;
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
-  background-position: 10px 150px;
+  background-position: 11px 180px;
   background-size: 100px auto;
 
 }
