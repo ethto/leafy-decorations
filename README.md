@@ -33,7 +33,7 @@ These are the only CSS properties you’ll need to add to accomplish the layout:
 
 ## Details
 
-- *Colours:* `#588477`, `#fff`, `#467366`, `#2d5a4d`, `#145b1d`, `rgba(16, 52, 41, .8)`, `rgba(16, 52, 41, 0)`
+- *Colours:* `#588477(LITE)`, `#fff`, `#467366(MEDIUM)`, `#2d5a4d (DARKEST)`, `#145b1d (FORESTY GROSS GREEN)`, `rgba(16, 52, 41, .8)`, `rgba(16, 52, 41, 0)`
 - *Border thickness:* `3px`
 - *Corner radii:* `8px`
 - *Size of the leafy pattern:* `64px`
