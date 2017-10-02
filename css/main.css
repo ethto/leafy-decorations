@@ -60,6 +60,14 @@ h1 {
 
 }
 
+@media only screen and (min-width: 38em) {
+
+  .banner-content {
+    padding-top: 17rem;
+  }
+
+}
+
 @media only screen and (min-width: 60em) {
 
   .logo {
@@ -68,6 +76,18 @@ h1 {
 
   .nav {
     text-align: right;
+  }
+
+  .banner-content {
+    padding-top: 15.5rem;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  .banner-content {
+    padding-top: 14rem;
   }
 
 }
